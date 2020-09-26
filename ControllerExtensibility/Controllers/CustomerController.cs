@@ -17,8 +17,6 @@ namespace ControllerExtensibility.Controllers
                 ActionName = "Index"
             });
         }
-        IControllerFactory a;
-            IControllerActivator
 
         public ViewResult List()
         {
